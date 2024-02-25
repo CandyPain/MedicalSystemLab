@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MedLab3.props" />
+</Project>
